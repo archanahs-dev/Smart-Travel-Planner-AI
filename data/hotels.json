@@ -1,0 +1,255 @@
+{
+  "Goa": [
+    {
+      "name": "Sea Breeze Resort",
+      "category": "Budget",
+      "price_per_night": 1800,
+      "rating": 4.2,
+      "location": "Calangute",
+      "amenities": [
+        "WiFi",
+        "Breakfast",
+        "Parking"
+      ]
+    },
+    {
+      "name": "Goa Grand Palace",
+      "category": "Standard",
+      "price_per_night": 3500,
+      "rating": 4.5,
+      "location": "Baga",
+      "amenities": [
+        "Pool",
+        "Restaurant",
+        "WiFi"
+      ]
+    },
+    {
+      "name": "Taj Exotica Goa",
+      "category": "Luxury",
+      "price_per_night": 9500,
+      "rating": 4.9,
+      "location": "Benaulim",
+      "amenities": [
+        "Private Beach",
+        "Spa",
+        "Pool"
+      ]
+    }
+  ],
+
+  "Manali": [
+    {
+      "name": "Snow View Inn",
+      "category": "Budget",
+      "price_per_night": 1700,
+      "rating": 4.2,
+      "location": "Mall Road"
+    },
+    {
+      "name": "Mountain Retreat",
+      "category": "Standard",
+      "price_per_night": 3400,
+      "rating": 4.5,
+      "location": "Old Manali"
+    },
+    {
+      "name": "The Himalayan",
+      "category": "Luxury",
+      "price_per_night": 9000,
+      "rating": 4.9,
+      "location": "Hadimba Road"
+    }
+  ],
+
+  "Mysore": [
+    {
+      "name": "Royal Orchid",
+      "category": "Budget",
+      "price_per_night": 1600,
+      "rating": 4.2,
+      "location": "Palace Road"
+    },
+    {
+      "name": "Southern Star",
+      "category": "Standard",
+      "price_per_night": 3200,
+      "rating": 4.5,
+      "location": "City Centre"
+    },
+    {
+      "name": "Radisson Blu",
+      "category": "Luxury",
+      "price_per_night": 7600,
+      "rating": 4.8,
+      "location": "MG Road"
+    }
+  ],
+
+  "Ooty": [
+    {
+      "name": "Green Valley Cottage",
+      "category": "Budget",
+      "price_per_night": 1800,
+      "rating": 4.3,
+      "location": "Lake Road"
+    },
+    {
+      "name": "Lake View Resort",
+      "category": "Standard",
+      "price_per_night": 3600,
+      "rating": 4.6,
+      "location": "Ooty Lake"
+    },
+    {
+      "name": "Fortune Sullivan Court",
+      "category": "Luxury",
+      "price_per_night": 8500,
+      "rating": 4.8,
+      "location": "Central Ooty"
+    }
+  ],
+
+  "Coorg": [
+    {
+      "name": "Coffee Estate Stay",
+      "category": "Budget",
+      "price_per_night": 1900,
+      "rating": 4.3,
+      "location": "Madikeri"
+    },
+    {
+      "name": "Coorg Heights",
+      "category": "Standard",
+      "price_per_night": 3700,
+      "rating": 4.6,
+      "location": "Raja Seat"
+    },
+    {
+      "name": "Evolve Back Coorg",
+      "category": "Luxury",
+      "price_per_night": 11000,
+      "rating": 4.9,
+      "location": "Siddapura"
+    }
+  ],
+    "Bengaluru": [
+    {
+      "name": "Treebo Trend",
+      "category": "Budget",
+      "price_per_night": 2200,
+      "rating": 4.2,
+      "location": "MG Road"
+    },
+    {
+      "name": "Lemon Tree",
+      "category": "Standard",
+      "price_per_night": 4200,
+      "rating": 4.5,
+      "location": "Indiranagar"
+    },
+    {
+      "name": "The Leela Palace",
+      "category": "Luxury",
+      "price_per_night": 12000,
+      "rating": 4.9,
+      "location": "Old Airport Road"
+    }
+  ],
+
+  "Varanasi": [
+    {
+      "name": "Ganges View",
+      "category": "Budget",
+      "price_per_night": 1800,
+      "rating": 4.1,
+      "location": "Assi Ghat"
+    },
+    {
+      "name": "Rivatas",
+      "category": "Standard",
+      "price_per_night": 4000,
+      "rating": 4.5,
+      "location": "Cantonment"
+    },
+    {
+      "name": "Taj Ganges",
+      "category": "Luxury",
+      "price_per_night": 9000,
+      "rating": 4.8,
+      "location": "Nadesar"
+    }
+  ],
+
+  "Vijayawada": [
+    {
+      "name": "Hotel Manorama",
+      "category": "Budget",
+      "price_per_night": 1700,
+      "rating": 4.1,
+      "location": "Governorpet"
+    },
+    {
+      "name": "Novotel Vijayawada",
+      "category": "Standard",
+      "price_per_night": 4200,
+      "rating": 4.5,
+      "location": "Bharathi Nagar"
+    },
+    {
+      "name": "Vivanta Vijayawada",
+      "category": "Luxury",
+      "price_per_night": 8500,
+      "rating": 4.8,
+      "location": "Labbipet"
+    }
+  ],
+
+  "Hyderabad": [
+    {
+      "name": "Hotel Bhimas",
+      "category": "Budget",
+      "price_per_night": 2000,
+      "rating": 4.2,
+      "location": "Ameerpet"
+    },
+    {
+      "name": "Lemon Tree Hyderabad",
+      "category": "Standard",
+      "price_per_night": 4500,
+      "rating": 4.5,
+      "location": "Hitech City"
+    },
+    {
+      "name": "Taj Krishna",
+      "category": "Luxury",
+      "price_per_night": 11000,
+      "rating": 4.9,
+      "location": "Banjara Hills"
+    }
+  ],
+
+  "Jaipur": [
+    {
+      "name": "Pink City Inn",
+      "category": "Budget",
+      "price_per_night": 1900,
+      "rating": 4.2,
+      "location": "MI Road"
+    },
+    {
+      "name": "Alsisar Haveli",
+      "category": "Standard",
+      "price_per_night": 4200,
+      "rating": 4.6,
+      "location": "Civil Lines"
+    },
+    {
+      "name": "Rambagh Palace",
+      "category": "Luxury",
+      "price_per_night": 18000,
+      "rating": 5.0,
+      "location": "Bhawani Singh Road"
+    }
+  ]
+}

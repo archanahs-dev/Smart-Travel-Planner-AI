@@ -1,0 +1,411 @@
+{
+  "Goa": {
+    "state": "Goa",
+    "type": "Beach",
+    "best_time": "November to February",
+    "ideal_days": 4,
+    "budget": {
+      "Budget": 18000,
+      "Standard": 30000,
+      "Luxury": 60000
+    },
+    "places": [
+      "Baga Beach",
+      "Calangute Beach",
+      "Fort Aguada",
+      "Anjuna Beach",
+      "Dudhsagar Falls"
+    ],
+    "foods": [
+      "Fish Curry Rice",
+      "Prawn Balchao",
+      "Bebinca"
+    ],
+    "activities": [
+      "Scuba Diving",
+      "Parasailing",
+      "Sunset Cruise"
+    ],
+    "packing": [
+      "Beach Wear",
+      "Sunglasses",
+      "Sunscreen",
+      "Power Bank"
+    ],
+    "transport": [
+      "Bike Rental",
+      "Taxi"
+    ],
+    "local_tips": [
+      "Rent a bike for local travel.",
+      "Visit beaches early morning."
+    ]
+  },
+
+  "Manali": {
+    "state": "Himachal Pradesh",
+    "type": "Hill Station",
+    "best_time": "October to February",
+    "ideal_days": 5,
+    "budget": {
+      "Budget": 20000,
+      "Standard": 35000,
+      "Luxury": 65000
+    },
+    "places": [
+      "Solang Valley",
+      "Rohtang Pass",
+      "Hadimba Temple",
+      "Old Manali",
+      "Mall Road"
+    ],
+    "foods": [
+      "Siddu",
+      "Trout Fish",
+      "Himachali Thali"
+    ],
+    "activities": [
+      "Paragliding",
+      "Camping",
+      "Snow Trekking"
+    ],
+    "packing": [
+      "Winter Jacket",
+      "Gloves",
+      "Thermal Wear",
+      "Boots"
+    ],
+    "transport": [
+      "Taxi",
+      "Bike"
+    ],
+    "local_tips": [
+      "Carry warm clothes.",
+      "Book Rohtang permits early."
+    ]
+  },
+
+  "Mysore": {
+    "state": "Karnataka",
+    "type": "Heritage",
+    "best_time": "October to March",
+    "ideal_days": 2,
+    "budget": {
+      "Budget": 12000,
+      "Standard": 22000,
+      "Luxury": 45000
+    },
+    "places": [
+      "Mysore Palace",
+      "Chamundi Hills",
+      "Brindavan Gardens",
+      "Mysore Zoo",
+      "St. Philomena's Church"
+    ],
+    "foods": [
+      "Mysore Pak",
+      "Masala Dosa",
+      "Bisi Bele Bath"
+    ],
+    "activities": [
+      "Palace Tour",
+      "Shopping",
+      "Photography"
+    ],
+    "packing": [
+      "Camera",
+      "Comfortable Shoes",
+      "Water Bottle"
+    ],
+    "transport": [
+      "Auto",
+      "Cab"
+    ],
+    "local_tips": [
+      "Visit Mysore Palace during evening lighting."
+    ]
+  },
+
+  "Ooty": {
+    "state": "Tamil Nadu",
+    "type": "Hill Station",
+    "best_time": "September to June",
+    "ideal_days": 3,
+    "budget": {
+      "Budget": 15000,
+      "Standard": 26000,
+      "Luxury": 50000
+    },
+    "places": [
+      "Ooty Lake",
+      "Botanical Garden",
+      "Doddabetta Peak",
+      "Tea Museum",
+      "Rose Garden"
+    ],
+    "foods": [
+      "Tea",
+      "Homemade Chocolates"
+    ],
+    "activities": [
+      "Boating",
+      "Toy Train Ride",
+      "Tea Estate Visit"
+    ],
+    "packing": [
+      "Sweater",
+      "Umbrella",
+      "Camera"
+    ],
+    "transport": [
+      "Taxi"
+    ],
+    "local_tips": [
+      "Morning is the best time for sightseeing."
+    ]
+  },
+
+  "Coorg": {
+    "state": "Karnataka",
+    "type": "Nature",
+    "best_time": "October to March",
+    "ideal_days": 3,
+    "budget": {
+      "Budget": 17000,
+      "Standard": 28000,
+      "Luxury": 52000
+    },
+    "places": [
+      "Abbey Falls",
+      "Raja Seat",
+      "Dubare Elephant Camp",
+      "Coffee Estates",
+      "Talacauvery"
+    ],
+    "foods": [
+      "Pandi Curry",
+      "Akki Roti",
+      "Coorg Coffee"
+    ],
+    "activities": [
+      "Nature Walk",
+      "Coffee Plantation Tour",
+      "River Rafting"
+    ],
+    "packing": [
+      "Raincoat",
+      "Shoes",
+      "Camera"
+    ],
+    "transport": [
+      "Cab"
+    ],
+    "local_tips": [
+      "Carry a raincoat during monsoon."
+    ]
+  },
+    "Bengaluru": {
+    "state": "Karnataka",
+    "type": "City",
+    "best_time": "October to February",
+    "ideal_days": 3,
+    "budget": {
+      "Budget": 16000,
+      "Standard": 30000,
+      "Luxury": 55000
+    },
+    "places": [
+      "Lalbagh Botanical Garden",
+      "Cubbon Park",
+      "Bangalore Palace",
+      "ISKCON Temple",
+      "MG Road"
+    ],
+    "foods": [
+      "Filter Coffee",
+      "Bisi Bele Bath",
+      "Masala Dosa"
+    ],
+    "activities": [
+      "Shopping",
+      "Food Tour",
+      "Nightlife"
+    ],
+    "packing": [
+      "Comfortable Shoes",
+      "Power Bank",
+      "Water Bottle"
+    ],
+    "transport": [
+      "Metro",
+      "Cab"
+    ],
+    "local_tips": [
+      "Use Namma Metro to avoid traffic."
+    ]
+  },
+
+  "Varanasi": {
+    "state": "Uttar Pradesh",
+    "type": "Spiritual",
+    "best_time": "October to March",
+    "ideal_days": 3,
+    "budget": {
+      "Budget": 14000,
+      "Standard": 24000,
+      "Luxury": 45000
+    },
+    "places": [
+      "Kashi Vishwanath Temple",
+      "Dashashwamedh Ghat",
+      "Assi Ghat",
+      "Sarnath",
+      "Ramnagar Fort"
+    ],
+    "foods": [
+      "Banarasi Paan",
+      "Kachori Sabzi",
+      "Lassi"
+    ],
+    "activities": [
+      "Ganga Aarti",
+      "Boat Ride",
+      "Temple Visit"
+    ],
+    "packing": [
+      "Traditional Wear",
+      "Camera",
+      "Water Bottle"
+    ],
+    "transport": [
+      "Auto",
+      "Boat"
+    ],
+    "local_tips": [
+      "Attend the evening Ganga Aarti."
+    ]
+  },
+
+  "Vijayawada": {
+    "state": "Andhra Pradesh",
+    "type": "Cultural",
+    "best_time": "October to February",
+    "ideal_days": 2,
+    "budget": {
+      "Budget": 13000,
+      "Standard": 22000,
+      "Luxury": 42000
+    },
+    "places": [
+      "Kanaka Durga Temple",
+      "Prakasam Barrage",
+      "Bhavani Island",
+      "Undavalli Caves",
+      "Gandhi Hill"
+    ],
+    "foods": [
+      "Andhra Meals",
+      "Pulihora",
+      "Gongura Pickle"
+    ],
+    "activities": [
+      "Temple Visit",
+      "River Cruise",
+      "Photography"
+    ],
+    "packing": [
+      "Cap",
+      "Water Bottle",
+      "Comfortable Shoes"
+    ],
+    "transport": [
+      "Bus",
+      "Cab"
+    ],
+    "local_tips": [
+      "Visit the temple early in the morning."
+    ]
+  },
+
+  "Hyderabad": {
+    "state": "Telangana",
+    "type": "Historical",
+    "best_time": "October to February",
+    "ideal_days": 3,
+    "budget": {
+      "Budget": 17000,
+      "Standard": 30000,
+      "Luxury": 60000
+    },
+    "places": [
+      "Charminar",
+      "Golconda Fort",
+      "Ramoji Film City",
+      "Salar Jung Museum",
+      "Hussain Sagar"
+    ],
+    "foods": [
+      "Hyderabadi Biryani",
+      "Haleem",
+      "Double Ka Meetha"
+    ],
+    "activities": [
+      "Fort Visit",
+      "Shopping",
+      "City Tour"
+    ],
+    "packing": [
+      "Comfortable Shoes",
+      "Cap",
+      "Water Bottle"
+    ],
+    "transport": [
+      "Metro",
+      "Cab"
+    ],
+    "local_tips": [
+      "Visit Charminar in the evening."
+    ]
+  },
+
+  "Jaipur": {
+    "state": "Rajasthan",
+    "type": "Heritage",
+    "best_time": "October to March",
+    "ideal_days": 4,
+    "budget": {
+      "Budget": 18000,
+      "Standard": 32000,
+      "Luxury": 65000
+    },
+    "places": [
+      "Hawa Mahal",
+      "Amber Fort",
+      "City Palace",
+      "Jantar Mantar",
+      "Nahargarh Fort"
+    ],
+    "foods": [
+      "Dal Baati Churma",
+      "Ghewar",
+      "Laal Maas"
+    ],
+    "activities": [
+      "Camel Ride",
+      "Shopping",
+      "Fort Tour"
+    ],
+    "packing": [
+      "Hat",
+      "Sunscreen",
+      "Camera"
+    ],
+    "transport": [
+      "Cab",
+      "Auto"
+    ],
+    "local_tips": [
+      "Start sightseeing early to avoid the afternoon heat."
+    ]
+  }
+}

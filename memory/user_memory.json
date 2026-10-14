@@ -1,0 +1,30 @@
+[
+    {
+        "Destination": "Goa",
+        "Days": 3,
+        "People": 2,
+        "Budget Type": "Budget",
+        "Total Budget": "\u20b9 11200"
+    },
+    {
+        "Destination": "Bengaluru",
+        "Days": 3,
+        "People": 2,
+        "Budget Type": "Budget",
+        "Total Budget": "\u20b9 12400"
+    },
+    {
+        "Destination": "Mysore",
+        "Days": 3,
+        "People": 2,
+        "Budget Type": "Budget",
+        "Total Budget": "\u20b9 10600"
+    },
+    {
+        "Destination": "Mysore",
+        "Days": 3,
+        "People": 3,
+        "Budget Type": "Budget",
+        "Total Budget": "\u20b9 13500"
+    }
+]
